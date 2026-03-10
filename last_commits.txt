@@ -1,0 +1,42 @@
+daca25030 | sjb933 | 3 years, 11 months ago | Merge branch '0.8.1-release' into 'master'
+3749241ef | Shane Bammel | 3 years, 11 months ago | Update patch version number
+30e781c93 | sjb933 | 3 years, 11 months ago | Merge branch 'slasher-flix' into 'master'
+2ea25cf8f | TBC Dev | 4 years ago | Fix validators not slashing on filled blocks Not a consensus change as verifiers expect this fix, yet do not reject blocks that are missing it.
+76cd185e3 | TBC Dev | 4 years ago | Improve safety of mutation of Header reference arg
+51f1f1051 | TBC Dev | 4 years ago | Fix original bad block problem Ref: 1926e96: Implemented fix for bad block sync bug Ref: 55ad275: Added SystemZero fork beginning free system txs Ref: 961ac6c: Apply slashes on first pass though commit
+712073140 | TBC Dev | 4 years ago | Fix incomplete rename of finalUpdate to firstPass
+6a28bcae1 | sjb933 | 4 years ago | Merge branch 'testnet-v2-b' into 'master'
+b74caa947 | Shane Bammel | 4 years ago | Update bootnodes for testnet v2-b
+9009e4002 | Shane Bammel | 4 years ago | Add sacrifice credits for testnet v2-b
+6c61bcc3f | Shane Bammel | 4 years ago | Update testnet network id to match new chain id
+a82a55f9f | Shane Bammel | 4 years ago | Update minor version for new testnet
+987de7b7a | Shane Bammel | 4 years ago | Update fork blocks and chain id
+dc83e2b2e | Shane Bammel | 4 years ago | Increase testnet treasury
+d6158c2c7 | Shane Bammel | 4 years ago | Update staking contract (13d23463)
+8ba608602 | sjb933 | 4 years, 1 month ago | Merge branch 'gas-estimations' into 'master'
+cfaf357c2 | Shane Bammel | 4 years, 1 month ago | Update patch version number for release
+0960719cf | Shane Bammel | 4 years, 1 month ago | Fix unit tests to account for estimation padding
+94fe5c195 | Shane Bammel | 4 years, 1 month ago | Add padding to gas estimates
+6424b258b | sjb933 | 4 years, 1 month ago | Merge branch 'merge-upstream-v1.10.15' into 'master'
+
+=== APRÈS AMENDMENT DU COMMIT DE SHANE BAMMEL ===
+e8b69275b | Shane Bammel | 3 years, 11 months ago | Update patch version number [AMENDED]
+30e781c93 | sjb933 | 3 years, 11 months ago | Merge branch 'slasher-flix' into 'master'
+2ea25cf8f | TBC Dev | 4 years ago | Fix validators not slashing on filled blocks Not a consensus change as verifiers expect this fix, yet do not reject blocks that are missing it.
+76cd185e3 | TBC Dev | 4 years ago | Improve safety of mutation of Header reference arg
+51f1f1051 | TBC Dev | 4 years ago | Fix original bad block problem Ref: 1926e96: Implemented fix for bad block sync bug Ref: 55ad275: Added SystemZero fork beginning free system txs Ref: 961ac6c: Apply slashes on first pass though commit
+712073140 | TBC Dev | 4 years ago | Fix incomplete rename of finalUpdate to firstPass
+6a28bcae1 | sjb933 | 4 years ago | Merge branch 'testnet-v2-b' into 'master'
+b74caa947 | Shane Bammel | 4 years ago | Update bootnodes for testnet v2-b
+9009e4002 | Shane Bammel | 4 years ago | Add sacrifice credits for testnet v2-b
+6c61bcc3f | Shane Bammel | 4 years ago | Update testnet network id to match new chain id
+a82a55f9f | Shane Bammel | 4 years ago | Update minor version for new testnet
+987de7b7a | Shane Bammel | 4 years ago | Update fork blocks and chain id
+dc83e2b2e | Shane Bammel | 4 years ago | Increase testnet treasury
+d6158c2c7 | Shane Bammel | 4 years ago | Update staking contract (13d23463)
+8ba608602 | sjb933 | 4 years, 1 month ago | Merge branch 'gas-estimations' into 'master'
+cfaf357c2 | Shane Bammel | 4 years, 1 month ago | Update patch version number for release
+0960719cf | Shane Bammel | 4 years, 1 month ago | Fix unit tests to account for estimation padding
+94fe5c195 | Shane Bammel | 4 years, 1 month ago | Add padding to gas estimates
+6424b258b | sjb933 | 4 years, 1 month ago | Merge branch 'merge-upstream-v1.10.15' into 'master'
+5cdaeb969 | Shane Bammel | 4 years, 2 months ago | Use sane gas cap for the getValidators system call
